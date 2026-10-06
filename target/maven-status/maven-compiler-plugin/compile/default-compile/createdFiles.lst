@@ -1,0 +1,11 @@
+com\mycompany\registroestudiantes\model\Nacionalidad.class
+com\mycompany\registroestudiantes\JakartaRestConfiguration.class
+com\mycompany\registroestudiantes\model\EstadoCivil.class
+com\mycompany\registroestudiantes\controller\EstudianteServlet.class
+com\mycompany\registroestudiantes\dao\EstudianteDao.class
+com\mycompany\registroestudiantes\dao\ConnectionUtil.class
+com\mycompany\registroestudiantes\model\Estudiante.class
+com\mycompany\registroestudiantes\model\Sexo.class
+com\mycompany\registroestudiantes\resources\JakartaEE8Resource.class
+com\mycompany\registroestudiantes\model\Ocupacion.class
+com\mycompany\registroestudiantes\dao\CatalogoDao.class
